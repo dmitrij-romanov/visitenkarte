@@ -19,13 +19,12 @@ body {
     font-family: 'Pacifico', cursive;
     font-weight: 700;
     font-size: 70px;
-    color: black; 
+    color: black; /* Черный цвет текста */
     margin-bottom: 10px;
 }
 
 .section-title {
     font-family: 'Arial', sans-serif;
-    color: white;
     font-size: 48px;
     font-weight: bold;
     margin-top: 20px;
@@ -38,7 +37,7 @@ p {
     font-size: 24px;
     line-height: 1.5;
     margin-bottom: 15px;
-    color: black; 
+    color: black; /* Белый цвет текста */
 }
 
 /* Стили для шапки (header) */
