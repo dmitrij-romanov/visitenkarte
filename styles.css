@@ -9,7 +9,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    color: FFFFF; /* Белый цвет текста */
+    color: FFFFF; 
     background-color: rgba(0, 0, 0, 0.7);
     filter: brightness(0.7);
 }
@@ -19,7 +19,7 @@ body {
     font-family: 'Pacifico', cursive;
     font-weight: 700;
     font-size: 70px;
-    color: black; /* Белый цвет текста */
+    color: black; 
     margin-bottom: 10px;
 }
 
